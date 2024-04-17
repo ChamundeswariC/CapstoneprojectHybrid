@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Salesforce_Scheduler" verbose="1" >
+              <test thread-count="5" name="Appointment">
+             <packages>
+                 <package name="com.metlife.testsuites"></package>
+             </packages>
+           </test> <!-- Test -->
+
+
+
+
+</suite>
